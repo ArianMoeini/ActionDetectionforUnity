@@ -3,6 +3,9 @@
 This repository contains the code and models for an action recognition system that classifies actions into three categories: Boxing, Kick, and Nonfighting.
 The system is part of a pipeline to integrate action recognition into Unity using Unity Sentis. 
 
+Git for Unity project related to the pipeline:
+https://github.com/ArianMoeini/UnityDone
+
 ## Repository Structure
 
 - **DifferentSavedData/**: Directory for various saved datasets.
